@@ -1,0 +1,14 @@
+# Data Handling
+pandas
+numpy
+
+# NLP and Machine Learning
+scikit-learn
+nltk
+
+# Social Media API (Example for Twitter/X)
+tweepy
+
+# Visualization
+matplotlib
+seaborn
